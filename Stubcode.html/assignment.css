@@ -1,0 +1,42 @@
+body {
+    font-family:  serif;
+    background-color: white;
+}
+table, tr,td{
+    text-align: center ;
+    position: relative;
+    left: 300px;
+    padding: 20px;
+}
+.top-cloud {
+    width: 70px;
+    margin-top: -90px;
+    margin-left: 120px;
+}
+h1 {
+    text-align: center;
+    color: aqua;
+}
+.grammer {
+    text-align: center;
+}
+.profile {
+    text-align: center;
+}
+.bottom-cloud {
+    position: relative;
+    bottom: 300px;
+    left: 100px;
+}
+.skills {
+    text-align: center;
+}
+.me-skill {
+    width: 100px;
+    position: relative;
+    left: 250px;
+}
+.hr {
+    border-style :ridge;
+}
+
